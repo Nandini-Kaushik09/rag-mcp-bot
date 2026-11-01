@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-openai
+langchain-huggingface
+langchain-chroma
+langchain-community
+langchain-text-splitters
+langgraph
+langchain-mcp-adapters
+mcp
+fastapi
+uvicorn[standard]
+python-dotenv
+pypdf
+sentence-transformers
+python-multipart
